@@ -11,14 +11,16 @@ O(1): [constant.cpp](./constant.cpp)
 Constant time. The algorithm takes the same amount of time regardless of input size.
 
 
-O(n): 
+O(n): [Linear.cpp](./Linear.cpp)
 Linear time. The execution time grows linearly with input size.
 
 
-O(n²): Quadratic time. The time grows proportionally to the square of the input size.
+O(n²):[Quadratic.cpp](./Quadratic.cpp)
+ Quadratic time. The time grows proportionally to the square of the input size.
 
 
-O(log n): Logarithmic time. Time grows logarithmically with the input size.
+O(log n):[Logarithmic.cpp](./Logarithmic.cpp)
+ Logarithmic time. Time grows logarithmically with the input size.
 
 
 # Space Complexity:
