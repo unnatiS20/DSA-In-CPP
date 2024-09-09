@@ -11,7 +11,8 @@ O(1): [constant.cpp](./constant.cpp)
 Constant time. The algorithm takes the same amount of time regardless of input size.
 
 
-O(n): Linear time. The execution time grows linearly with input size.
+O(n): 
+Linear time. The execution time grows linearly with input size.
 
 
 O(n²): Quadratic time. The time grows proportionally to the square of the input size.
